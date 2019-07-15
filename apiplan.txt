@@ -1,0 +1,4 @@
+API ENDPOINT: /api/v1/movies
+REQUIREMENTS:
+1. Should have a status code of 200
+2. Should return an array of movies
